@@ -10,4 +10,4 @@ addingEventListener.addingEventListener('click', function()
 
 const input = document.getElementById('input');
 
-input.addEventListener('click', addingEventListener);
+// input.addEventListener('click', addingEventListener);
