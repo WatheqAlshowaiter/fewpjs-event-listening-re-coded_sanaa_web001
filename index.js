@@ -2,6 +2,6 @@ function addingEventListener() {
 }
 
 
-const input = document.querySelector('#input');
+const input = document.getElementById('input');
 
-input.addingEventListener
+input.addEventListener('click', addingEventListener);
